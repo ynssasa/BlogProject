@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Project\\BlogProject\\BlogProject\\BlogProject.csproj",
-      "projectName": "BlogProject",
-      "projectPath": "C:\\Users\\user\\Desktop\\Project\\BlogProject\\BlogProject\\BlogProject.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Project\\BlogProject\\BlogProject\\BlogProjectUI.csproj",
+      "projectName": "BlogProjectUI",
+      "projectPath": "C:\\Users\\user\\Desktop\\Project\\BlogProject\\BlogProject\\BlogProjectUI.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\Desktop\\Project\\BlogProject\\BlogProject\\obj\\",
       "projectStyle": "PackageReference",
