@@ -32,7 +32,12 @@ namespace BusinessLayer.Concrete
 			throw new NotImplementedException();
 		}
 
-		public void Remove(Blog blog)
+        public List<Blog> GetListWithCategory()
+        {
+            return _blogDal.GetListWithCategory();
+        }
+
+        public void Remove(Blog blog)
 		{
 			throw new NotImplementedException();
 		}
