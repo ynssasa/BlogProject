@@ -27,6 +27,11 @@ namespace BusinessLayer.Concrete
 			return _blogDal.GetAll();
 		}
 
+		public List<Blog> GetBlogsById(int id)
+		{
+			return _blogDal.GetAll(x=>x.BlogId==id);
+		}
+
 		public Blog GetById(int id)
 		{
 			throw new NotImplementedException();
